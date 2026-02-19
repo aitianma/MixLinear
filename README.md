@@ -9,10 +9,18 @@ Welcome to the official repository of **MixLinear**, the ICLR 2026 paper:
 
 > **MixLinear: Extreme Low-Resource Multivariate Time Series Forecasting with 0.1K Parameters**  
 > *Aitian Ma, Dongsheng Luo, Mo Sha*  
-> Knight Foundation School of Computing and Information Sciences, Florida International University
+> <sup>1</sup>Knight Foundation School of Computing and Information Sciences, Florida International University
 
-📄 Paper: https://arxiv.org/abs/2410.02081  
-🎉 Published as a conference paper at ICLR 2026
+<div align="center">
+
+[📄 Paper](https://arxiv.org/abs/2410.02081) • 
+[💻 Code](https://github.com/aitianma/MixLinear) • 
+[👤 Profile](https://aitianma.github.io/) • 
+[🎓 Google Scholar](https://scholar.google.com/citations?user=fsVMRlsAAAAJ)
+
+</div>
+
+🎉 *Published as a conference paper at **ICLR 2026***
 
 ---
 
