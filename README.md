@@ -13,6 +13,7 @@ Welcome to the official repository of **MixLinear**, the ICLR 2026 paper:
 
 
 [📄 Paper](https://arxiv.org/abs/2410.02081) • 
+[🎥 Presentation & Slides](https://recorder-v3.slideslive.com/#/share?share=108680&s=4eeab25b-f387-4749-88fd-562b4baea0e9) •
 [👤 Profile](https://aitianma.github.io/) • 
 [🎓 Google Scholar](https://scholar.google.com/citations?user=fsVMRlsAAAAJ)
 
