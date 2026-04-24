@@ -12,10 +12,20 @@ Welcome to the official repository of **MixLinear**, the ICLR 2026 paper:
 > <sup>1</sup>Knight Foundation School of Computing and Information Sciences, Florida International University
 
 
+
 [📄 Paper](https://arxiv.org/abs/2410.02081) • 
 [🎥 Presentation & Slides](https://recorder-v3.slideslive.com/#/share?share=108680&s=4eeab25b-f387-4749-88fd-562b4baea0e9) •
 [👤 Profile](https://aitianma.github.io/) • 
 [🎓 Google Scholar](https://scholar.google.com/citations?user=fsVMRlsAAAAJ)
+
+
+🌐 Additional Materials
+
+- 🇨🇳 中文解读  
+- 📺 ICLR 预讲会（55:00）  
+  https://www.bilibili.com/video/BV1XGoaBXEmr/  
+- 📝 CSDN 博客  
+  https://blog.csdn.net/AITIME_HY/article/details/159808163  
 
 
 🎉 *Published as a conference paper at **ICLR 2026***
